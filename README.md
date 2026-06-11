@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/medhansh-garg/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://hackoverflow404.github.io/Portfolio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medhansh2005@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=googledrive&logoColor=white)](https://hackoverflow404.github.io/Portfolio/Resume.pdf)
 ![Profile Views](https://komarev.com/ghpvc/?username=HackOverflow404&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
