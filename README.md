@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Hey%2C+I'm+Medhansh;Computer+Engineer+%40+UIUC;I+break+things+to+understand+them.;Cybersecurity+%7C+Embedded+%7C+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&speed=30&pause=400&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Computer+Engineer+%40+UIUC;Hardware+%7C+Software+%7C+Security;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,16 +15,10 @@
 
 ## About Me
 
-```
-"You can only understand a system by building it, or breaking it."
-```
-
 - **Computer Engineering** @ University of Illinois Urbana-Champaign
-- Pursuing **OSCP** · NYU Cybersecurity Certified
-- CTF competitor, I break things for fun (and for the flag)
-- Ex-intern @ **IoT++** (ML/CV) · **Care Health Insurance** (Cybersecurity)
-- Currently: photolithography machines, WebRTC, and anything that runs on a microcontroller
-- Ask me about: ESP32, penetration testing, MQTT, grblHAL, LangChain, or WebRTC
+- Fascinated by the intersection of hardware, software, and security
+- I build solutions to problems I hit myself — WebRTC when my microphone died, MQTT when my LED remote broke
+- SWE Intern @ **Hopcharge** · Lead Web Developer @ **CS 124 Honors, UIUC** · External VP @ **Illinois MicroTech, UIUC**
 
 ---
 
@@ -35,14 +29,18 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Frameworks & Tools**
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -58,10 +56,12 @@
 
 **Security**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214A84?style=for-the-badge&logo=nmap&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-333333?style=for-the-badge&logo=aircrackng&logoColor=white)
 
 ---
 
@@ -75,7 +75,7 @@
 | [SIGPwny Fall CTF Badge](https://github.com/sigpwny/fallctf-2025-badge) | DEFCON-style ESP32 CTF badge with SAO compatibility and hardware challenges | `ESP32` `C++` `PCB Design` |
 | [AlberFlowy](https://github.com/HackOverflow404/AlberFlowy) | Albert launcher plugin interfacing the WorkFlowy API for hierarchical note search | `C++` `CMake` `REST API` |
 | [Howdy (open PR)](https://github.com/HackOverflow404/howdy) | GNOME Shell extension that renders a live annotated camera feed above the lock screen and GDM greeter during facial auth — works around Mutter's lock shield via file-based IPC and St.ImageContent to bypass texture caching | `Python` `GNOME Shell` `GdkPixbuf` `PAM` `Wayland` |
-| [CS124H Platform](https://github.com/CS196Illinois/cs124h-website) | Full-stack course platform for CS 124 Honors at UIUC — led a team of 11, built UIUC SSO, role-based access, TOTP attendance, and task dashboard | `Next.js` `TypeScript` `SSO` |
+| [CS124H Platform](https://github.com/CS196Illinois/cs124h-website) | Full-stack course platform for CS 124 Honors at UIUC — managing 11 developers, built UIUC SSO, role-based access, TOTP attendance, and task dashboard | `Next.js` `TypeScript` `SSO` |
 
 ---
 
@@ -83,25 +83,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HackOverflow404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HackOverflow404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues&hide_rank=true" height="170"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackOverflow404&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=HackOverflow404&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=HackOverflow404&theme=tokyonight&row=1&column=7&margin-w=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -117,22 +101,14 @@
 
 ---
 
-## Contributions Snake
+## Contributions
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HackOverflow404/HackOverflow404/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HackOverflow404/HackOverflow404/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/HackOverflow404/HackOverflow404/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HackOverflow404/HackOverflow404/output/minesweeper-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HackOverflow404/HackOverflow404/output/minesweeper-contribution-graph.svg" />
+  <img alt="Minesweeper contribution graph" src="https://raw.githubusercontent.com/HackOverflow404/HackOverflow404/output/minesweeper-contribution-graph-dark.svg" />
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-*Currently working somewhere between the kernel and the cloud.*
 
 </div>
