@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&speed=30&pause=400&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Computer+Engineer+%40+UIUC;Hardware+%7C+Software+%7C+Security;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&speed=30&pause=400&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Hey%2C+I'm+Medhansh+Garg;Computer+Engineer+%40+UIUC;Hardware+%7C+Software+%7C+Security)](https://git.io/typing-svg)
 
 <br/>
 
@@ -33,6 +33,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![LC-3](https://img.shields.io/badge/LC--3_Assembly-6E4C9E?style=for-the-badge&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V_Assembly-283272?style=for-the-badge&logo=riscv&logoColor=white)
 
 **Frameworks & Tools**
 
@@ -43,7 +45,6 @@
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GStreamer](https://img.shields.io/badge/GStreamer-FF0000?style=for-the-badge&logo=gstreamer&logoColor=white)
 
 **Hardware & Protocols**
@@ -60,8 +61,6 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214A84?style=for-the-badge&logo=nmap&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-333333?style=for-the-badge&logo=aircrackng&logoColor=white)
 
 ---
 
