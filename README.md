@@ -17,7 +17,7 @@
 
 - **Computer Engineering** @ University of Illinois Urbana-Champaign
 - Fascinated by the intersection of hardware, software, and security
-- I build solutions to problems I hit myself — WebRTC when my microphone died, MQTT when my LED remote broke
+- I build solutions to problems I hit myself: WebRTC when my microphone died, MQTT when my LED remote broke
 - SWE Intern @ **Hopcharge** · Lead Web Developer @ **CS 124 Honors, UIUC** · External VP @ **Illinois MicroTech, UIUC**
 
 ---
@@ -73,8 +73,8 @@
 | [SpotifyWebController](https://github.com/HackOverflow404/SpotifyWebController) | Beautiful Spotify Now Playing UI with real-time song info and synced lyrics | `Python` `Raspberry Pi` `Spotify API` |
 | [SIGPwny Fall CTF Badge](https://github.com/sigpwny/fallctf-2025-badge) | DEFCON-style ESP32 CTF badge with SAO compatibility and hardware challenges | `ESP32` `C++` `PCB Design` |
 | [AlberFlowy](https://github.com/HackOverflow404/AlberFlowy) | Albert launcher plugin interfacing the WorkFlowy API for hierarchical note search | `C++` `CMake` `REST API` |
-| [Howdy (open PR)](https://github.com/HackOverflow404/howdy) | GNOME Shell extension that renders a live annotated camera feed above the lock screen and GDM greeter during facial auth — works around Mutter's lock shield via file-based IPC and St.ImageContent to bypass texture caching | `Python` `GNOME Shell` `GdkPixbuf` `PAM` `Wayland` |
-| [CS124H Platform](https://github.com/CS196Illinois/cs124h-website) | Full-stack course platform for CS 124 Honors at UIUC — managing 11 developers, built UIUC SSO, role-based access, TOTP attendance, and task dashboard | `Next.js` `TypeScript` `SSO` |
+| [Howdy (open PR)](https://github.com/HackOverflow404/howdy) | GNOME Shell extension that renders a live annotated camera feed above the lock screen and GDM greeter during facial auth, working around Mutter's lock shield via file-based IPC and St.ImageContent to bypass texture caching | `Python` `GNOME Shell` `GdkPixbuf` `PAM` `Wayland` |
+| [CS124H Platform](https://github.com/CS196Illinois/cs124h-website) | Full-stack course platform for CS 124 Honors at UIUC, managing 11 developers, built UIUC SSO, role-based access, TOTP attendance, and task dashboard | `Next.js` `TypeScript` `SSO` |
 
 ---
 
