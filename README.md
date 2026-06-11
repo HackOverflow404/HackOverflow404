@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Hey%2C+I'm+Medhansh+%F0%9F%91%8B;Computer+Engineer+%40+UIUC;I+break+things+to+understand+them.;Cybersecurity+%7C+Embedded+%7C+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Hey%2C+I'm+Medhansh;Computer+Engineer+%40+UIUC;I+break+things+to+understand+them.;Cybersecurity+%7C+Embedded+%7C+AI)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,15 +16,15 @@
 ## About Me
 
 ```
-"You can only understand a system by building it — or breaking it."
+"You can only understand a system by building it, or breaking it."
 ```
 
-- 🎓 **Computer Engineering** @ University of Illinois Urbana-Champaign
-- 🔐 Pursuing **OSCP** · NYU Cybersecurity Certified
-- 🏆 CTF competitor — I break things for fun (and for the flag)
-- 🤖 Ex-intern @ **IoT++** (ML/CV) · **Care Health Insurance** (Cybersecurity)
-- 🔭 Currently: photolithography machines, WebRTC, and anything that runs on a microcontroller
-- 💬 Ask me about: ESP32, penetration testing, MQTT, grblHAL, LangChain, or WebRTC
+- **Computer Engineering** @ University of Illinois Urbana-Champaign
+- Pursuing **OSCP** · NYU Cybersecurity Certified
+- CTF competitor, I break things for fun (and for the flag)
+- Ex-intern @ **IoT++** (ML/CV) · **Care Health Insurance** (Cybersecurity)
+- Currently: photolithography machines, WebRTC, and anything that runs on a microcontroller
+- Ask me about: ESP32, penetration testing, MQTT, grblHAL, LangChain, or WebRTC
 
 ---
 
@@ -69,14 +69,13 @@
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [🔬 HackerFab](https://github.com/HackOverflow404) | Student-built semiconductor photolithography machine with automated wafer staging | `C++` `grblHAL` `Stepper Motors` |
-| [📡 RemoteWebcam](https://github.com/HackOverflow404/RemoteWebcam) | Turns your phone into a real-time webcam for Linux using WebRTC + PWA — no drivers, no cables | `WebRTC` `Firebase` `GStreamer` `Qt` `PWA` |
-| [🎵 SpotifyWebController](https://github.com/HackOverflow404/SpotifyWebController) | Beautiful Spotify Now Playing UI with real-time song info and synced lyrics | `Python` `Raspberry Pi` `Spotify API` |
-| [💡 Control-Lights](https://github.com/HackOverflow404/Control-Lights) | Flask app with MQTT broker, Docker Compose stack, and Matter smart home protocol | `Flask` `MQTT` `Docker` `Matter` `Pi` |
-| [🔐 Kryptos](https://github.com/HackOverflow404/Kryptos) | Python-based message encryption and decryption app | `Python` `Cryptography` |
-| [📱 Uplift](https://github.com/HackOverflow404/Uplift) | Hackathon app using Tesseract.js OCR + LangChain/OpenAI for accessibility | `React Native` `LangChain` `OpenAI` `OCR` |
-| [🎰 PCB Badge](https://github.com/HackOverflow404) | DEFCON-style ESP32 CTF badge with SAO compatibility and hardware challenges | `ESP32` `C++` `PCB Design` |
-| [🗒️ AlberFlowy](https://github.com/HackOverflow404/AlberFlowy) | Albert launcher plugin interfacing the WorkFlowy API for hierarchical note search | `Python` `Albert` `REST API` |
+| [HackerFab](https://github.com/audicakes/Hackerfab-Stepper) | Student-built semiconductor photolithography machine with automated wafer staging | `C++` `grblHAL` `Stepper Motors` |
+| [RemoteWebcam](https://github.com/HackOverflow404/RemoteWebcam) | Turns your phone into a real-time webcam for Linux using WebRTC + PWA, no drivers, no cables | `WebRTC` `Firebase` `GStreamer` `Qt` `PWA` |
+| [SpotifyWebController](https://github.com/HackOverflow404/SpotifyWebController) | Beautiful Spotify Now Playing UI with real-time song info and synced lyrics | `Python` `Raspberry Pi` `Spotify API` |
+| [SIGPwny Fall CTF Badge](https://github.com/sigpwny/fallctf-2025-badge) | DEFCON-style ESP32 CTF badge with SAO compatibility and hardware challenges | `ESP32` `C++` `PCB Design` |
+| [AlberFlowy](https://github.com/HackOverflow404/AlberFlowy) | Albert launcher plugin interfacing the WorkFlowy API for hierarchical note search | `C++` `CMake` `REST API` |
+| [Howdy (open PR)](https://github.com/HackOverflow404/howdy) | GNOME Shell extension that renders a live annotated camera feed above the lock screen and GDM greeter during facial auth — works around Mutter's lock shield via file-based IPC and St.ImageContent to bypass texture caching | `Python` `GNOME Shell` `GdkPixbuf` `PAM` `Wayland` |
+| [CS124H Platform](https://github.com/CS196Illinois/cs124h-website) | Full-stack course platform for CS 124 Honors at UIUC — led a team of 11, built UIUC SSO, role-based access, TOTP attendance, and task dashboard | `Next.js` `TypeScript` `SSO` |
 
 ---
 
