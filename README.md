@@ -8,7 +8,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://hackoverflow404.github.io/Portfolio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medhansh2005@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-B30B00?style=for-the-badge&logo=adobe&logoColor=white)](https://hackoverflow404.github.io/Portfolio/Resume.pdf)
-![Profile Views](https://komarev.com/ghpvc/?username=HackOverflow404&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
