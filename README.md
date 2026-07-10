@@ -80,17 +80,6 @@
 | [Howdy (open PR)](https://github.com/HackOverflow404/howdy) | GNOME Shell extension that renders a live annotated camera feed above the lock screen and GDM greeter during facial auth, working around Mutter's lock shield via file-based IPC and St.ImageContent to bypass texture caching | `Python` `GNOME Shell` `GdkPixbuf` `PAM` `Wayland` |
 | [CS124H Platform](https://github.com/CS196Illinois/cs124h-website) | Full-stack course platform for CS 124 Honors at UIUC, managing 11 developers, built UIUC SSO, role-based access, TOTP attendance, and task dashboard | `Next.js` `TypeScript` `SSO` |
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HackOverflow404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues&hide_rank=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackOverflow404&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-
-</div>
 
 ---
 
