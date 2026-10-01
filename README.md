@@ -17,7 +17,7 @@
 
 - **Computer Engineering** @ University of Illinois Urbana-Champaign
 - Fascinated by the intersection of hardware, software, and security
-- I build solutions to problems I hit myself: WebRTC when my microphone died, MQTT when my LED remote broke
+- I build solutions to problems I encounter myself
 - SWE Intern @ **Hopcharge** · Lead Web Developer @ **CS 124 Honors, UIUC** · External VP @ **Illinois MicroTech, UIUC**
 
 ---
@@ -74,7 +74,7 @@
 |:--------|:------------|:------|
 | [HackerFab](https://github.com/audicakes/Hackerfab-Stepper) | Student-built semiconductor photolithography machine with automated wafer staging | `C++` `grblHAL` `Stepper Motors` |
 | [RemoteWebcam](https://github.com/HackOverflow404/RemoteWebcam) | Turns your phone into a real-time webcam for Linux using WebRTC + PWA, no drivers, no cables | `WebRTC` `Firebase` `GStreamer` `Qt` `PWA` |
-| [SpotifyWebController](https://github.com/HackOverflow404/SpotifyWebController) | Beautiful Spotify Now Playing UI with real-time song info and synced lyrics | `Python` `Raspberry Pi` `Spotify API` |
+| [TPS-L2](https://github.com/HackOverflow404/TPS-L2) | Beautiful Spotify Now Playing UI with real-time song info and synced lyrics | `Python` `Raspberry Pi` `Spotify API` |
 | [SIGPwny Fall CTF Badge](https://github.com/sigpwny/fallctf-2025-badge) | DEFCON-style ESP32 CTF badge with SAO compatibility and hardware challenges | `ESP32` `C++` `PCB Design` |
 | [AlberFlowy](https://github.com/HackOverflow404/AlberFlowy) | Albert launcher plugin interfacing the WorkFlowy API for hierarchical note search | `C++` `CMake` `REST API` |
 | [Howdy (open PR)](https://github.com/HackOverflow404/howdy) | GNOME Shell extension that renders a live annotated camera feed above the lock screen and GDM greeter during facial auth, working around Mutter's lock shield via file-based IPC and St.ImageContent to bypass texture caching | `Python` `GNOME Shell` `GdkPixbuf` `PAM` `Wayland` |
